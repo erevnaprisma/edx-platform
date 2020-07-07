@@ -144,7 +144,7 @@ def _footer_openedx_link():
     """
     # Translators: 'Open edX' is a trademark, please keep this untranslated.
     # See http://openedx.org for more information.
-    title = _("Powered by Open edX")
+    title = _("Powered by Erevnaraya")
     return {
         "url": settings.FOOTER_OPENEDX_URL,
         "title": title,
