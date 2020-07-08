@@ -1,0 +1,5 @@
+# Beginning of mysettings.py
+from .tutor.development import *
+
+FEATURES['ENABLE_COURSE_DISCOVERY'] = True
+CONTACT_MAILING_ADDRESS = "erevnaraya@gmail.com"
